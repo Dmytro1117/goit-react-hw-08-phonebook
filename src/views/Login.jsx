@@ -49,7 +49,7 @@ const Login = () => {
           onChange={handleChange}
         />
         <button type="submit " className={style.form__btn}>
-          Log in
+          Login
         </button>
       </form>
     </div>

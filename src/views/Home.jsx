@@ -11,7 +11,7 @@ const HomeView = () => (
         className={({ active }) => (active ? style.active : style.home__linc)}
         to="/login"
       >
-        Log in
+        Login
       </NavLink>
       <p className={style.first}>or</p>
       <NavLink
